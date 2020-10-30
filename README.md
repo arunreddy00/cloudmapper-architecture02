@@ -35,7 +35,7 @@ python cloudmapper.py webserver
 
 If you want to access this data externally use the --public switch and ensure any firewalls/security groups are allowed
 
-python cloudmapper.py webserver --public
+*****python cloudmapper.py webserver --public
 
 The demo data should now be available externally using http://<ip>:8000
 
